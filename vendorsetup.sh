@@ -14,5 +14,6 @@
 # limitations under the License.
 #
 
+add_lunch_combo os9_crosshatch-userdebug
 add_lunch_combo aosp_crosshatch-userdebug
 add_lunch_combo aosp_blueline-userdebug
